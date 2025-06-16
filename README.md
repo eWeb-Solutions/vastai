@@ -1,2 +1,2 @@
 # vastai
-Script for Vast AI
+Scripts for Vast AI
